@@ -1,4 +1,4 @@
-# Distance-Correlation
+# Distance Correlation
 An algorithm of distance correlation and its comparision with Pearson correlation on samples
 
 ## Some properties of distance correlation
